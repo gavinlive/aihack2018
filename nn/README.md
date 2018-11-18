@@ -1,3 +1,3 @@
-# An experiment for learning more about the implementation and use of capsule networks
+# AI Hack 2018 - NN for the California Challenge
 
-* Purely for learning purposes
+# Author : Gavin Seegoolam
